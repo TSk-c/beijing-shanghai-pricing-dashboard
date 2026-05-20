@@ -116,6 +116,4 @@ beijing-shanghai-pricing-dashboard/
 - **节假日/展会**：节假日前中后期标记、展会影响
 - **交叉特征**：RPA×提前天数、供给紧张度×节假日等
 
-## License
 
-MIT
